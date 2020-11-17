@@ -1,6 +1,6 @@
 # gesture_detector
 
-A new Flutter application.
+A new Flutter application for detecting a simple gesture.
 
 ## Getting Started
 
